@@ -1,0 +1,24 @@
+.banner {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../../images/banniere.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 120px 0;
+  text-align: center;
+}
+
+.banner h1 {
+  font-size: 50px;
+  margin-bottom: 20px;
+  color: #c7a854;
+  letter-spacing: 7px;
+  background-color: #004223;
+  padding: 5px 10px;
+  border-radius: 30px;
+  display: inline-block;
+}
+
+.banner h2 {
+  font-size: 24px;
+  font-weight: lighter;
+  margin-bottom: 30px;
+}
